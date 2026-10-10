@@ -1,0 +1,21 @@
+Driver,Team,Speed,Engine_Power,Aero_Efficiency,Pit_Stop_Time,Reliability,Experience,Points
+Max V.,RedBull,342,1050,92,2.1,96,9,25
+Lewis H.,Mercedes,338,1040,88,2.3,91,17,18
+Charles L.,Ferrari,340,1045,85,2.4,87,6,15
+Lando N.,McLaren,336,1030,90,2.2,93,5,20
+George R.,Mercedes,337,1040,87,2.5,90,4,12
+Carlos S.,Ferrari,339,1045,84,2.6,85,8,10
+Sergio P.,RedBull,341,1050,91,2.2,94,13,16
+Fernando A.,AstonMartin,333,1010,80,2.7,82,22,8
+Oscar P.,McLaren,335,1030,89,2.3,92,2,14
+Yuki T.,RedBullJr,330,1000,75,2.9,78,3,4
+Lance S.,AstonMartin,331,1010,78,2.8,80,5,2
+Pierre G.,Alpine,328,990,74,3.0,76,6,3
+Esteban O.,Alpine,327,990,73,3.1,75,7,1
+Valtteri B.,Sauber,325,970,70,3.2,72,10,0
+Zhou G.,Sauber,324,970,69,3.3,71,3,0
+Kevin M.,Haas,326,980,71,3.0,74,9,2
+Nico H.,Haas,325,980,70,3.1,73,3,1
+Alex A.,Williams,323,960,68,3.4,70,3,0
+Logan S.,Williams,322,960,67,3.5,69,1,0
+Daniel R.,RedBullJr,329,1000,76,2.8,79,8,5
